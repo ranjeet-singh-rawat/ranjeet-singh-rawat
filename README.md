@@ -16,7 +16,7 @@ I’m a **Full-Stack Developer** with 2 years of experience in building scalable
 - 💬 Ask me about **Frontend Development, REST APIs, GraphQL, and Community Building**
 - 🧠 Co-founded **D4 Community**
 - 🌐 My portfolio: [ranjeet-singh-rawat.vercel.app](https://ranjeet-singh-rawat.vercel.app/)
-- 📫 Reach me at: [ranjeet843507@gmail.com](mailto:ranjeet843507@gmail.com)
+- 📫 Reach me at: [ranjeet843507@gmail.com](mailto:ranjeetrawat.dev@gmail.com)
 
 ---
 
