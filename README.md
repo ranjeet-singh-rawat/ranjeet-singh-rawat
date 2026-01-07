@@ -29,14 +29,14 @@ I’m a **Full-Stack Developer** with 2 years of experience in building scalable
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet0302Singh&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-singh-rawat&layout=compact&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjeet0302Singh&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ranjeet-singh-rawat&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjeet0302Singh&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranjeet0302Singh&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjeet-singh-rawat&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranjeet-singh-rawat&theme=monokai" />
 </p>
 
 ---
@@ -79,8 +79,8 @@ I’m a **Full-Stack Developer** with 2 years of experience in building scalable
 ### 🐍 GitHub Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ranjeet-singh-rawat/ranjeet-singh-rawat/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ranjeet-singh-rawat/ranjeet-singh-rawat/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/ranjeet-singh-rawat/ranjeet-singh-rawat/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
